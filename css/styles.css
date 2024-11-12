@@ -105,7 +105,7 @@
 
     /* theme color variations
      */
-    --color-1-lighter: hsla(182, 82%, 58%, 1);
+    --color-1-lighter: rgb(64, 217, 255);
     --color-1-light: hsla(182, 82%, 48%, 1);
     --color-1-dark: hsla(182, 82%, 28%, 1);
     --color-1-darker: hsla(182, 82%, 18%, 1);
@@ -3428,7 +3428,7 @@ button.btn--pill {
     height: var(--header-height);
     line-height: var(--header-height);
     padding: 0 1.6rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgb(255, 255, 255);
 }
 
 .s-header__nav a:hover,
