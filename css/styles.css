@@ -105,7 +105,7 @@
 
     /* theme color variations
      */
-    --color-1-lighter: rgb(64, 217, 255);
+    --color-1-lighter: rgb(255, 255, 255);
     --color-1-light: hsla(182, 82%, 48%, 1);
     --color-1-dark: hsla(182, 82%, 28%, 1);
     --color-1-darker: hsla(182, 82%, 18%, 1);
@@ -4003,7 +4003,7 @@ button.btn--pill {
     --color-border: var(--color-gray-16);
 
 
-    background-color: skyblue;
+    background-color:white;
 
     padding-top: 90px;
     padding-bottom: var(--vspace-4);
@@ -4664,10 +4664,10 @@ button.btn--pill {
 }
 
 .s-contact .huge-text {
-    color: white;
+    color: rgb(24, 24, 24);
     margin-top: 0;
     font-weight: 400;
-    font-size: 4.6rem;
+    font-size: 4rem;
     line-height: 1.304;
 }
 
@@ -4689,7 +4689,7 @@ button.btn--pill {
 }
 
 .contact-block a {
-    color: white;
+    color: rgb(22, 22, 22);
 }
 
 .contact-block a:hover,
@@ -4700,7 +4700,7 @@ button.btn--pill {
 .contact-block__header {
     font-size: 2.2rem;
     font-weight: 400;
-    color: rgba(255, 255, 255, 0.4);
+    color: rgba(8, 8, 8, 0.4);
     margin-top: 0;
     margin-bottom: .2rem;
 }
