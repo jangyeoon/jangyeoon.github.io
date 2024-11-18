@@ -1371,10 +1371,11 @@ textarea {
 }
 
 .block-large-1-2 > .column {
-    -ms-flex: 0 0 50%;
+    -ms-flex: 0 0 47%;
     -webkit-box-flex: 0;
-    flex: 0 0 50%;
-    max-width: 50%;
+    flex: 0 0 47%;
+    max-width: 47%;
+    margin:1%;
 }
 
 .block-large-full > .column {
@@ -1424,10 +1425,10 @@ textarea {
     }
 
     .block-medium-1-2 > .column {
-        -ms-flex: 0 0 50%;
+        -ms-flex: 0 0 47%;
         -webkit-box-flex: 0;
-        flex: 0 0 50%;
-        max-width: 50%;
+        flex: 0 0 48%;
+        max-width: 48%;
     }
 
     .block-medium-full > .column {
